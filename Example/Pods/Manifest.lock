@@ -1,0 +1,16 @@
+PODS:
+  - PGModelKit (0.1.0)
+
+DEPENDENCIES:
+  - PGModelKit (from `../`)
+
+EXTERNAL SOURCES:
+  PGModelKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PGModelKit: eb3d8a3e08d81230a60c4851dd941103c867de86
+
+PODFILE CHECKSUM: f257ac40f9aeabd66634fa9f75ed5c3677891d4e
+
+COCOAPODS: 1.5.0
