@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Cicada/PGModelKit'
+  s.homepage         = 'https://github.com/ZLJZ/PGModelKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Cicada' => 'wuxl@orbyun.com' }
-  s.source           = { :git => 'https://github.com/Cicada/PGModelKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ZLJZ/PGModelKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
